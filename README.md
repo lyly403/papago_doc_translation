@@ -18,7 +18,7 @@ papago_doc_translation API with Python
 - 여러개의 문서를 한 폴더에 모아 순차적으로 자동 번역&다운로드
 - NCP 공공기관/민간 사용자
   
-### 주요 기능
+## 주요 기능
 - API 키 부분을 사용자에 알맞게 수정
 - 번역할 문서(Before) 폴더 지정
 - 번역한 문서(After) 폴더 지정
