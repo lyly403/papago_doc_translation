@@ -11,6 +11,16 @@ papago_doc_translation API with Python
 - Naver Cloud platform
 - papago Translation API 
 
+## 참고 사항
+- 이미지로 된 텍스트는 번역 불가
+- 텍스트에 적용된 스타일은 일부 일치하지 않거나 누락될 수 있음
+- 텍스트에 적용된 링크나 액션은 일부 동작하지 않거나 누락될 수 있음
+- 암호가 설정된 파일 미지원
+- 읽기 전용 파일 미지원
+- 이미 번역 진행 단계에 있는 문서가 있을 경우, API 동시 호출 제한
+
+### 지원 포멧
+- .docx, .pptx, .xlsx, .pdf, .hwp
 
 ## 시나리오
 이 API는 다음과 같은 사용자들을 위해 설계되었습니다:
